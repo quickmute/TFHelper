@@ -21,7 +21,7 @@ ModuleVersion = '3.0.0'
 GUID = '912e4010-269e-46bb-8b47-8c739580843d'
 
 # Author of this module
-Author = 'kwakh'
+Author = 'Hyon'
 
 # Company or vendor of this module
 CompanyName = 'None'
