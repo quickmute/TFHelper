@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>TFHelper.PSModule</id>
+    <version>3.0.0</version>
+    <authors>hyon</authors>
+    <owners>hyon</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>http://spsites.stifel.com/InformationSystem/knowledgebase/SitePages/CloudAuthenticator.aspx</projectUrl>
+    <description>TFHelper is Powershell wrapper to interact with Terraform API endpoints</description>
+    <releaseNotes>Nuget Edition</releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags>Terraform</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
